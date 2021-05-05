@@ -10,3 +10,5 @@
 [1. 배열 01](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.array/배열%2001.md)
 
 [2. 배열 02](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.array/배열%2002.md)
+
+[3. 선형 검색](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.search/선형%20검색.md)
