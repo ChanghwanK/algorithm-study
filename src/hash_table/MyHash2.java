@@ -15,7 +15,6 @@ public class MyHash2 {
     }
 
     static class Slot {
-
         String key;
         String value;
         Slot next;
