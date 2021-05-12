@@ -5,7 +5,7 @@
 <br>
 
 
-## 문제들 
+## 자료구조 
 
 [1. 배열 01](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.array/배열%2001.md)
 
@@ -20,3 +20,8 @@
 [6. Single_linked_list 구현](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.single_linked_list/Single_Linked_List.md)
 
 [7. Hash Table 구현](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.hash_table/HashTable.md)
+
+
+
+## 문제
+[1. 완전탐색](https://github.com/DevBloo/algorithm-study/blob/master/document/문제%20풀이/5.12/완전%20탐색/완전탐색.md)
