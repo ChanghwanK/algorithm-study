@@ -20,9 +20,13 @@
 [6. Single_linked_list 구현](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.single_linked_list/Single_Linked_List.md)
 
 [7. Hash Table 구현](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.hash_table/HashTable.md)
+
 [8. Tree 구현](https://github.com/DevBloo/algorithm-study/blob/master/document/chap.tree/tree%20정리.md)
 
 
 ## 문제
 ### 완전탐색
-[1. N 과 M (3)](https://github.com/DevBloo/algorithm-study/blob/master/document/문제%20풀이/5.12/완전%20탐색/완전탐색.md)
+[1. N 과 M (1)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15649.java)
+[2. N 과 M (2)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15650.java)
+[3. N 과 M (3)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15651.java)
+[4. N 과 M (4)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15652.java)
