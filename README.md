@@ -24,4 +24,5 @@
 
 
 ## 문제
-[1. 완전탐색](https://github.com/DevBloo/algorithm-study/blob/master/document/문제%20풀이/5.12/완전%20탐색/완전탐색.md)
+### 완전탐색
+[1. N 과 M (3)](https://github.com/DevBloo/algorithm-study/blob/master/document/문제%20풀이/5.12/완전%20탐색/완전탐색.md)
