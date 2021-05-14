@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
- * 백준 - 15650 번 N 과 M (1) - N 개 중 중복 없이 M 개를 순서 있게 나열 하기 1 <= M  <= N <= 8
+ * 백준 - 15650 번 N 과 M (2) - N 개 중 중복 없이 M 개를 순서 있게 나열 하기 1 <= M  <= N <= 8
  */
 public class Boj_15650 {
 
