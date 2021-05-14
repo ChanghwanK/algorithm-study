@@ -27,6 +27,9 @@
 ## 문제
 ### 완전탐색
 [1. N 과 M (1)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15649.java)
+
 [2. N 과 M (2)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15650.java)
+
 [3. N 과 M (3)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15651.java)
+
 [4. N 과 M (4)](https://github.com/DevBloo/algorithm-study/blob/master/src/exam/brute_force/Boj_15652.java)
